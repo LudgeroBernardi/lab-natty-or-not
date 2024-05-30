@@ -1,4 +1,4 @@
-# Aquecimento Global e o Impacto nas Geleiras do Planeta 
+# E-book Aquecimento Global e o Impacto nas Geleiras do Planeta 
 
 ## 📒 Descrição
 Este E-book detalha o fenômeno do aquecimento global, suas causas e consequências, com foco específico no derretimento das geleiras e no impacto resultante sobre o nível do mar. Aborda o papel crucial das geleiras no clima global e os impactos de seu derretimento, incluindo a elevação do nível do mar e as mudanças nos ecossistemas. O texto também examina várias cidades globais ameaçadas de inundação, incluindo grandes metrópoles brasileiras como Rio de Janeiro, Recife, Salvador, Florianópolis, Santos e Fortaleza. E conclui com um chamado à ação, enfatizando a urgência da resposta coletiva para combater as mudanças climáticas, destacando a importância da educação, da tecnologia e do planejamento urbano sustentável para criar um futuro resiliente e seguro.
@@ -16,7 +16,7 @@ Foi utilizado o Microsoft Office 365 para edição e revisão do conteúdo, e pa
 ## 🚀 Resultados
 O E-book apresenta um conteúdo atual e com informações relevantes sobre a questão envolvendo o Aquecimento Global e o Impacto nas Geleiras do Planeta com imagens super reais na sua ilustração, demonstrando todo o poder das IAs Genativas, as quais podem ser utilizadas para criação de contéudo de extrema qualidade em um curto espaço de tempo, aumentando a produtividade e qualidade do trabalho humano.
 
-[LINK PARA O E-BOOK AQUI]()
+[LINK PARA O E-BOOK AQUI](https://github.com/LudgeroBernardi/lab-natty-or-not/blob/main/Ebook%20-%20Aquecimento%20Global%20e%20o%20Impacto%20nas%20Geleiras%20do%20Planeta.pdf)
 
 ## 💭 Reflexão
 Este E-book foi elaborado com o intuito de fornecer uma visão abrangente sobre o aquecimento global, o impacto nas geleiras e as consequências para as cidades ao redor do mundo.
