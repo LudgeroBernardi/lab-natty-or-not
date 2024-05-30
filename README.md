@@ -22,4 +22,4 @@ O E-book apresenta um conteúdo atual e com informações relevantes sobre a que
 
 ## 💭 Reflexão
 Este E-book foi elaborado com o intuito de fornecer uma visão abrangente sobre o aquecimento global, o impacto nas geleiras e as consequências para as cidades ao redor do mundo.
-Espero que esse conteudo inspire ações positivas e promova a conscientização sobre a urgência da crise climática. Juntos, podemos enfrentar esse desafio e criar um futuro sustentável para todos..
+Espero que esse conteudo inspire ações positivas e promova a conscientização sobre a urgência da crise climática. Juntos, podemos enfrentar esse desafio e criar um futuro sustentável para todos.
